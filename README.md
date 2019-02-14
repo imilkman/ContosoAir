@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/collinossiander/ReadyLab/_apis/build/status/imilkman.ContosoAir?branchName=master)](https://dev.azure.com/collinossiander/ReadyLab/_build/latest?definitionId=3&branchName=master)
 
 
 # Microsoft.Github CI Demo
